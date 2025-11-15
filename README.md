@@ -6,4 +6,4 @@
 
 ## Important Note
 
-**If you want to use this code or publish it online, please remove the Google Tag Manager code from `index.html` (lines 4-16).** This tracking code is specific to this website and should not be included in your own projects.
+**If you're using this code for your own website, please remove the Google Tag Manager code from `index.html` (lines 5-17).** This tracking code is specific to this website and should not be included in your own projects.
